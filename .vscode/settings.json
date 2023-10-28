@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "api_final_yatube"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
